@@ -2,12 +2,12 @@
 Listing petrol stations and prices build over react native
 
 `Sign up`
-![signup](https://imgur.com/a/5b7hRhz)
+![signup](https://i.imgur.com/R6sYK7r.jpeg)
 <br/><br/>
 `Getting Location`
-![location](https://imgur.com/a/mOMK1DO)
+![location](https://i.imgur.com/z8k3k3U.jpeg)
 <br/><br/>
 `Map`
-![map](https://imgur.com/a/OxuDReZ)
+![map](https://i.imgur.com/wfVgx59.jpeg)
 
 
